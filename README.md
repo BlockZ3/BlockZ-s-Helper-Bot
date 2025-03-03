@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/faa8d7b7-1c89-479e-86cd-277e62533eaa" />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/575f78ca-818b-459f-a5ba-1f92c008fd59"/>
 
-  **Current version: 0.1**
-</p
+  **Current Version: 0.1**
+
+</div>
 
 # Welcome to the offcial page of the BlockZ's Helper Bot.
 
