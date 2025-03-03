@@ -5,11 +5,7 @@
 
 </div>
 
-# Welcome to the offcial page of the BlockZ's Helper Bot.
-
-
 ### First of all, note that all this code has been written by itsnotAZ. I forked his code and used it to make my own Bot.
-
 
 # BlockZ's Helper
 
@@ -22,5 +18,6 @@ Yes it is! Feel free to fork itsnotAZ's code and make a Bot for yourself, like I
 ## Other Features:
 
 - **Customizable** to your liking!
-- Able to be used as a **moderation Bot**
+- Able to be used as a **moderation Bot.**
 - Very epic.
+
