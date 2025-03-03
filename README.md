@@ -9,7 +9,7 @@
 
 # BlockZ's Helper
 
-**Join My Discord Server:** [here](**https://discord.gg/XQ9JBruq)
+**Join My Discord Server:** [here](https://discord.gg/XQ9JBruq)
 
 ## What is this Bot?
 BlockZ's Helper is a simple Bot capable of running simple commands. This Bot will be mostly used for announcements, moderation and other tasks.
