@@ -9,6 +9,8 @@
 
 # BlockZ's Helper
 
+**Join My Discord Server:** [here](**https://discord.gg/XQ9JBruq)
+
 ## What is this Bot?
 BlockZ's Helper is a simple Bot capable of running simple commands. This Bot will be mostly used for announcements, moderation and other tasks.
 
@@ -20,4 +22,3 @@ Yes it is! Feel free to fork itsnotAZ's code and make a Bot for yourself, like I
 - **Customizable** to your liking!
 - Able to be used as a **moderation Bot.**
 - Very epic.
-
