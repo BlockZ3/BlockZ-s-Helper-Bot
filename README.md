@@ -8,4 +8,11 @@ First of all, note that all this code has been written by itsnotAZ. I forked his
 
 ---
 
+# BlockZ's Helper
+
 # What is this Bot?
+BlockZ's Helper is a simple Bot capable of running simple commands. This Bot will be mostly used for announcements, moderation and other tasks.
+
+# Is it open source?
+Yes it is! Feel free to fork itsnotAZ's code and make Bot for yourself, like I did. It's super easy!
+
